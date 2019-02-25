@@ -1,5 +1,4 @@
 # Senior-Java-Developer-Online-Gaming-Central-London-1918
-
 Senior Java Developer / Online Gaming / Central London / £60,000-£70,000 + 10% bonus
 
 # Stack: 
